@@ -10,4 +10,7 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'Anil-Kumar-Learning-Angular';
+  aboutme = 'I am Anil Kumar '
+  course = 'My course name is Computer programing'
+
 }

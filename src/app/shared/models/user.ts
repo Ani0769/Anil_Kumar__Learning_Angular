@@ -1,4 +1,4 @@
-export interface Counter {
+export interface User {
   id: number,
   playerName: string,
   cars: string,
